@@ -960,7 +960,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
     </Manifest>
     <Manifest>
         <Name>Boss Control Mod</Name>
-        <Description>Allows the player to play as some Bosses, including Radiance, The Hollow Knight, Grimm, Nail Master. English Translation of page: https://github-com.translate.goog/WLLEGit/HollowKnightMod?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp</Description>
+        <Description>Allows the player to play as some Bosses, including Radiance, The Hollow Knight, Grimm, Nail Master. English Translation of page: https://github-com.translate.goog/WLLEGit/HollowKnightMod?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=wapp</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256=""><![CDATA[https://github.com/WLLEGit/HollowKnightMod/releases/download/v3.0/Controller.zip]]></Link>
         <Repository><![CDATA[https://github.com/WLLEGit/HollowKnightMod]]></Repository>
