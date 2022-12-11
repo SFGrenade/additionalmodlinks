@@ -22,7 +22,7 @@
         <Version>1.5.0.0</Version>
         <Link SHA256="27acfbdea634f4ecc891456cc885466db33aed10274d45dd72db14c8fc4723a8"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/889708343793442886/GODump.zip]]></Link>
         <Dependencies />
-        <Repository><![CDATA[]]></Repository>
+        <Repository><![CDATA[https://no.url.given]]></Repository>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -33,7 +33,7 @@
         <Version>1.5.0.0</Version>
         <Link SHA256="ac7d27a1f9e286c4f533bddcfafacc4971608fdbf2b06db6e5586839c9e82db7"><![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/download/mod/GodSoul.zip]]></Link>
         <Dependencies />
-        <Repository><![CDATA[Nexade#4250 (I think that's what you mean)]]></Repository>
+        <Repository><![CDATA[https://github.com/Nexade/God-Soul-Mod]]></Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -133,7 +133,7 @@
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage]]></Repository>
         <Tags>
-            <Tag>Visual</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>ygsbzr,Clazex</Author>
@@ -189,7 +189,7 @@
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/772964112908156938/836256114659033098/926375632290598943]]></Repository>
         <Tags>
-            <Tag>Visual</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>kingkiller39</Author>
@@ -203,7 +203,7 @@
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/772964112908156938/836256114659033098/922191482226614282]]></Repository>
         <Tags>
-            <Tag>Visual</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>KingKiller39</Author>
@@ -217,7 +217,7 @@
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879138134103846954/925824654340395019]]></Repository>
         <Tags>
-            <Tag>Visual</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>Mulhima</Author>
@@ -319,7 +319,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940533846527606795]]></Repository>
         <Tags>
-            <Tag>Meme</Tag>
+            <Tag>Boss</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -341,7 +341,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/latest/download/PantheonsHitCounter.zip]]></Repository>
         <Tags>
-            <Tag>Visual</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -352,7 +352,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter]]></Repository>
         <Tags>
-            <Tag>Visual</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -363,7 +363,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod]]></Repository>
         <Tags>
-            <Tag>Visual</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>Ygsbzr</Author>
@@ -447,7 +447,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919643798991163463]]></Repository>
         <Tags>
-            <Tag>Visual</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>Mulhima</Author>
@@ -470,7 +470,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="35bebfd71d0c228e5389db5943842f8af80ae7fde66bbab38226ae4c0fdf0ae1"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823242847883294/Atomic_Radiance.zip]]></Link>
         <Dependencies />
-        <Repository><![CDATA[]]></Repository>
+        <Repository><![CDATA[https://no.url.given]]></Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -506,7 +506,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="01a2034b96104114d33dab34674758e4186f5cb7cf4e274968689a3abeaa7587"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966935382308573204/EnemyRandomizerModCommon.zip]]></Link>
         <Dependencies />
-        <Repository><![CDATA[]]></Repository>
+        <Repository><![CDATA[https://no.url.given]]></Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -531,9 +531,9 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="3fe4ce585c77eacf5f67a6d0a64b1537ff478f675afe60ac06b3b768665b2aab"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823242453631016/Any_Radiance.zip]]></Link>
         <Dependencies />
-        <Repository><![CDATA[]]></Repository>
+        <Repository><![CDATA[https://no.url.given]]></Repository>
         <Tags>
-            <Tag>Meme</Tag>
+            <Tag>Boss</Tag>
         </Tags>
         <Authors>
             <Author>ygsbzr</Author>
@@ -904,28 +904,28 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>TitleSwapper: AX2U Start Streaming</Name>
+        <Name>TitleSwapper - AX2U Start Streaming</Name>
         <Description>Swaps the game title asset</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="686a142221181c2e1a92f81b172fc8ed50412657d980c0ccfdd2c1e1cee78861"><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919260644287586334/TitleSwapper.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919260644543455322]]></Repository>
         <Tags>
-            <Tag>Meme</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>Mulhima</Author>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Title Swapper: Soviet Edition</Name>
+        <Name>Title Swapper - Soviet Edition</Name>
         <Description>Swaps the menu title</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="1701226b40288950eec97850d3ee4b092a43447c82c9c5cef354acf4de190b9c"><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919643798991163463]]></Repository>
         <Tags>
-            <Tag>Meme</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>Mulhima</Author>
