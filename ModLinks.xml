@@ -1,0 +1,989 @@
+<?xml version="1.0"?>
+<ModLinks xmlns="https://github.com/SFGrenade/additionalmodlinks/HollowKnight.ModManager"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/additionalmodlinks/main/Schemas/ModLinks.xml">
+    <Manifest>
+        <Name>Convenient PoP</Name>
+        <Description>This mod makes it so when you hit a PoP Soul Totem or a Wingsmould with your Nail it fills your Soul to full.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/EnderOnryo/Convenient_PoP]]></Link>
+        <Repository><![CDATA[https://github.com/EnderOnryo/Convenient_PoP]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ender Onryo</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GoDump 1.5</Name>
+        <Description>Sprite dump</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/889708343793442886/GODump.zip]]></Link>
+        <Repository><![CDATA[]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>God Soul</Name>
+        <Description>A mod that makes the entire game really, really hard.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/tag/mod]]></Link>
+        <Repository><![CDATA[Nexade#4250 (I think that's what you mean)]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Nexade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Momentum Knight</Name>
+        <Description>A mod for Hollow Knight which allows you to customize acceleration and friction values. </Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/o7Moon/HollowKnight.MomentumKnight/releases/download/v1.0/MomentumKnight.dll]]></Link>
+        <Repository><![CDATA[https://github.com/o7Moon/HollowKnight.MomentumKnight]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>o7Moon</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>God Seeker +</Name>
+        <Description>Various tweaks to enhance your Godhome experience</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus]]></Link>
+        <Repository><![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>EscapeHatch</Name>
+        <Description>Unfreeze game after exiting mod menu with f3</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879138066961424405/899325564962344980/EscapeHatch.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/772964112908156938/822611561427370054/910615517331595274]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Dandy</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Player Data Tracker</Name>
+        <Description>Tracks player data. Most frequently used to display abilities/charms during Randomizer streams</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/822832351797182514/921886051176431676/PDT.zip]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/772964112908156938/822832351797182514/921886051486818354]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>KingKiller39</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Enemy Hit Info</Name>
+        <Description>Debug addon showing how many times you've hit the current enemy with different attack types</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/flibber-hk/HollowKnight.EnemyHitInfo/releases]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/772964112908156938/822611561427370054/922181034974523463]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Flibber</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RemoveLaggyObjects</Name>
+        <Description>Removes objects that cause lag, such as Nailsage Sly's candles</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/922947344939487282/RemoveLaggyObjects.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879138134103846954/922947345233117225]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Godfriend, Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>CustomImage</Name>
+        <Description>A Hollow Knight Mod can change some sprites</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/1.5.7.8-2/CustomImage.dll]]></Link>
+        <Repository><![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage]]></Repository>
+        <Tags>
+            <Tag>Visual Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>ygsbzr,Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DeathCounter</Name>
+        <Description>very cool death counter, yes</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78/DeathCounter.dll]]></Link>
+        <Repository><![CDATA[https://github.com/ygsbzr/DeathCounter]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>ygsbzr,sid-003</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>TheCurseofsly</Name>
+        <Description>A Hollow Knight Mod,make you can't get geo </Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly/releases/download/1.5-new/TheCurseofSly-2.1-fix.dll]]></Link>
+        <Repository><![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>ygsbzr</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>FuryMod</Name>
+        <Description>A mod if you equipped Fury of Fallen,you will be 1 health and can use it</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/HollowKnight.FuryMod/releases/download/1.5/FuryMod.dll]]></Link>
+        <Repository><![CDATA[https://github.com/ygsbzr/HollowKnight.FuryMod]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>ygsbzr</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DisablePercent</Name>
+        <Description>Mod to stop showing % in the inventory menu, but will still show at the end. (Requires Vasi)</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/723344742322274357/926733968429170718/DisablePercent.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/772964112908156938/836256114659033098/926375632290598943]]></Repository>
+        <Tags>
+            <Tag>Visual Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>kingkiller39</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Player Data Tracker for 1.5</Name>
+        <Description>PDT ported and updated for 1.5. Used to show collected items in an OBS stream</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/822832351797182514/921886051176431676/PDT.zip]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/772964112908156938/836256114659033098/922191482226614282]]></Repository>
+        <Tags>
+            <Tag>Visual Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>KingKiller39</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HideModList</Name>
+        <Description>Replaces Mod names with "?????" in the corner of menus</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/925824653602205746/HideModList.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879138134103846954/925824654340395019]]></Repository>
+        <Tags>
+            <Tag>Visual Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RemoveLaggyObjections</Name>
+        <Description>Removes Sly's Candles from GodHome. Port of Mulhima's 1432 version.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/922947344939487282/RemoveLaggyObjects.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879138134103846954/922947345233117225]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Godfriend</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>VoidWalker</Name>
+        <Description>"Changes Pure Vessel in the following ways:
+◆ Game is faster by 25%,
+◆ Soul is limited,
+◆ Health increased from 1600 to 2400,
+◆ Begins in 3rd Phase right from the start,
+◆ Cannot be staggered.
+Requires: Satchel(v0.7.4+) and DebugMod (v1.4.9.1+)
+Based on the unreleased mod of the same name by Aeraloth"</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879130708302520321/927293991622418442/VoidWalker.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879130708302520321/927293991584677979]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Exaltation</Name>
+        <Description>allows you to empower your charms by progressing through GodHome</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/TheodoreChristianRadu/Exaltation]]></Link>
+        <Repository><![CDATA[https://github.com/TheodoreChristianRadu/Exaltation]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Théodore</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Bonfire</Name>
+        <Description>A level-up system in Hollow Knight</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/TheodoreChristianRadu/BonfireMod]]></Link>
+        <Repository><![CDATA[https://github.com/TheodoreChristianRadu/BonfireMod]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Théodore</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Lightbringer</Name>
+        <Description>One of the first major Gameplay overhaul mods: Changes how the Knight attacks, as well as modifies many game aspects.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.Lightbringer]]></Link>
+        <Repository><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.Lightbringer]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Théodore</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ModCommon (1578)</Name>
+        <Description>ModCommon ported to 1578 ಠ_ಠ (required for one port of AnyRad 1578 port)</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/941635092550406154/1.5ModCommon.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/941635092957237288]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Any Radiance (1578 port)</Name>
+        <Description>AnyRad for 1578 (Requires ModCommon1578)</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/940533846586302464/Any_Radiance1578.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940533846527606795]]></Repository>
+        <Tags>
+            <Tag>Meme Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Godly Nightmares (1578)</Name>
+        <Description>Godly Nightmares, ported to 1578</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/940534705248428052/GodlyNightmares1578.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940534706255069245]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Pantheons Hit Counter</Name>
+        <Description>Counts hits in pantheons automatically.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases]]></Link>
+        <Repository><![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/latest/download/PantheonsHitCounter.zip]]></Repository>
+        <Tags>
+            <Tag>Visual Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Hit Counter</Name>
+        <Description>Hit Counter mod for Hollow Knight.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/releases/latest/download/HitCounter.zip]]></Link>
+        <Repository><![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter]]></Repository>
+        <Tags>
+            <Tag>Visual Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Hatchlings Mod</Name>
+        <Description>Various Weaverling convenience options, including # of, cosmetics, disabling attacks, and charm cost.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod/releases/download/v1.5/Hatchling.1.5.dll]]></Link>
+        <Repository><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod]]></Repository>
+        <Tags>
+            <Tag>Visual Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ygsbzr</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Companion Cloth</Name>
+        <Description>Let Cloth accompany and fight with you all the way</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://jmp.clazex.net/hk-mod/companion-cloth]]></Link>
+        <Repository><![CDATA[https://github.com/Clazex/HollowKnight.CompanionCloth]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Health Share</Name>
+        <Description>Let some bosses use shared health and provides a health sharing API</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://jmp.clazex.net/hk-mod/health-share]]></Link>
+        <Repository><![CDATA[https://github.com/Clazex/HollowKnight.HealthShare]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Everwatchers</Name>
+        <Description>A mod boss based on Watcher Knights, allowing you to fight all of them simultaneously and add more of them</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://jmp.clazex.net/hk-mod/everwatchers]]></Link>
+        <Repository><![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MultiZap</Name>
+        <Description>A mod where the Uumuu lightning attack follows the player through the entire game</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/941523273156558909/941572769450192896/MultiZap.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/941523273156558909/941572769685078016]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Flibber</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>PV Focus</Name>
+        <Description>Makes PV heal 25% when it does focus attack</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/969809558203674705/969823993379041340/PVFocus.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/969809558203674705/969823993580384306]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima </Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Title Swapper</Name>
+        <Description>Allows the player to replace the Main Menu title with a custom one</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919643798991163463]]></Repository>
+        <Tags>
+            <Tag>Visual Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Dumb Radiance</Name>
+        <Description>Changes the Radiance fight. This is a 1.5 port</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966009732970201178/DumbRadiance.zip]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/966009733200891994]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Atomic Radiance</Name>
+        <Description>Changes Radiance fight. This is a 1.5 port</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823242847883294/Atomic_Radiance.zip]]></Link>
+        <Repository><![CDATA[]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Ultimatium Radiance</Name>
+        <Description>Changes Radiance fight. This is a 1.5 port</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823243208589312/Ultimatum_Radiance.zip]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/966010107169226823]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>IronHead Radiance</Name>
+        <Description>Changes Radiance fight. This is a 1.5 port</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966010579053592687/IronHeadRadiance-v1.0.0.zip]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/966010579217186916]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Enemy Randomizer [1.5 port]</Name>
+        <Description>Randomizes Enemies. This .zip comes with ModCommon1578, which is required to run this port.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966935382308573204/EnemyRandomizerModCommon.zip]]></Link>
+        <Repository><![CDATA[]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>royal dreamer</Name>
+        <Description>royal dreamer, but on 1.5</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940534706255069245]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940534706255069245]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author></Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Godhome Win Loss Tracker</Name>
+        <Description>Tracks per-boss win/loss in Hall of Gods and pantheons</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases]]></Link>
+        <Repository><![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Roy</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Any Radiance (Satchel 1578 port)</Name>
+        <Description>Better AnyRad for 1578 (Requires Satchel)</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823242453631016/Any_Radiance.zip]]></Link>
+        <Repository><![CDATA[]]></Repository>
+        <Tags>
+            <Tag>Meme Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>ygsbzr</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Daughter of Hallownest (1.5 port)</Name>
+        <Description>Improved version of the Hornet 2 fight</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/Daughter-of-Hallownest/releases/download/1.5port/DoH.zip]]></Link>
+        <Repository><![CDATA[https://github.com/ygsbzr/Daughter-of-Hallownest]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>SalehAce1 (original creater), ygsbzr (port)</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Child of Light (1.5 Port)</Name>
+        <Description>A mod empowering players with radiant spell for those who seek the binding light that plagues our dreams.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.ChildOfLight/releases/download/2.1.0/ChildOfLight.zip]]></Link>
+        <Repository><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.ChildOfLight]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>TheodoreChristianRadu</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Infinite AbsRad Phases</Name>
+        <Description>Mod that makes an Absolute Radiance phase infinite (5 does nothing). Requires SFCore and Satchel.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/InfiniteAbsRadPhases/InfiniteAbsRadPhases.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/InfiniteAbsRadPhases]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Change Start Location</Name>
+        <Description>Use menu changer page to add change start location to the options rando has. as a bonus it skips the opening cutscene. Requires Menu Changer</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879130542501658624/1030240858102059148/ChangeStartLocation.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879130542501658624/1030240858706026506]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GPZ Precepts</Name>
+        <Description>Makes GPZ read out (no audio) a random precept each time he takes damage. During that time, he cannot be damaged again. Requires SFCore.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/GPZ_Precepts/GPZ_Precepts.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/GPZ_Precepts]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Menderbug Options</Name>
+        <Description>Mod that lets you set Menderbug's spawn chance, choose whether Menderbug respawns after dying, and choose whether the sign must be broken. Requires Satchel.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/MenderbugOptions/MenderbugOptions.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/MenderbugOptions]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Nailmaster's Pride</Name>
+        <Description>Mod that makes Nailmaster's Glory grant all Nail Arts, automatically charge Nail Arts, and prevent regular Nail attacks.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/NailmastersPride/NailmastersPride.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/NailmastersPride]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Nailmasters Damaged Only By Nail Arts</Name>
+        <Description>Mod that makes each Nailmaster only able to be damaged using their Nail Art. Sly can be damaged using all three.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/NailmastersDamagedOnlyByNailArts/NailmastersByNailArt.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/NailmastersDamagedOnlyByNailArts]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Disable Enemy Geo</Name>
+        <Description>Mod that makes enemies no longer drop Geo. Requires SFCore.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/DisableEnemyGeo/DisableEnemyGeo.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/DisableEnemyGeo]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Always Furious</Name>
+        <Description>Mod that makes Fury of the Fallen benefit Nail slashes and Nail Arts at any HP. "ALL CHARMS END" (AbsRad, Radiance, and HK finales) will still cancel the effects. Requires SFCore.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/AlwaysFurious/AlwaysFurious.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/AlwaysFurious]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Dream Warpers</Name>
+        <Description>Mod that makes Gorb, Elder Hu, and No Eyes teleport 100% of the time after being damaged. Requires SFCore.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/999108128392089630/999125432253300836/Dream_Warpers.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/DreamWarpers]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Quick Focus + Hiveblood</Name>
+        <Description>Small mod that adds interaction between Quick Focus and Hiveblood. Requires SFCore</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/989619600369016842/989986212464959498/Focus_Hiveblood.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/989619600369016842/989986212687253544]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Spell Twister Focus (Normal)</Name>
+        <Description>Spell Twister reduces the cost of Focus. Requires SFCore</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/989619600369016842/989649883252285460/Spell_Twister_Focusing_NORMAL.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/989619600369016842/989649885634625536]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Spell Twister Focus (Faster)</Name>
+        <Description>Spell Twister reduces the cost of and increases the speed of Focus. Requires SFCore</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/986819387069714472/986844535638351883/Spell_Twister_Focusing_FASTER.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/986819387069714472/986844535994847343]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Silent Dreamshield</Name>
+        <Description>A mod that makes Dreamshield not play audio when Nail slashing. Require SFCore.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/SilentDreamshield/SilentDreamshield.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/SilentDreamshield]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Faster Hiveblood</Name>
+        <Description>A mod that makes Hiveblood restore Masks twice as fast (does not affect the Joni's Blessing Mask restoration rate). Requires SFCore.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/FasterHiveblood/FasterHiveblood.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/FasterHiveblood]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Grimmchild Everywhere</Name>
+        <Description>Allows Grimmchild to appear during the Troupe Master Grimm and Nightmare King Grimm fights. Does NOT work in the Troupe Master Grimm fight in Dirtmouth. Requires SFCore.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/GrimmchildEverywhere/GrimmchildEverywhere.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/GrimmchildEverywhere]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Heavy Blow Damage</Name>
+        <Description>Increases Damage by 15% when Heavy Blow is equipped</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/977649225410150420/977657957049315348/HeavyBlowDamage.zip]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/977649225410150420/977657957246451762]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Spell Damage Control</Name>
+        <Description>Allows the user to adjust some of the values for spells. You must launch the game with the mod at least once, and then edit the Global Settings file while the game is closed.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/975025795623948368/1036859019794591804/SpellDamageControl.zip]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/975025795623948368/1036859020163694672]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Flibber</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Fast Nail</Name>
+        <Description>Allows the player to swing their nail, *very* fast.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/972696304482410506/973436326001123328/FastNail.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/972696304482410506/973436325858533387]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>clove</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Pure Vessel Focus</Name>
+        <Description>Makes Pure Vessel heal 25% when Focusing</Name>
+    </Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/969809558203674705/969823993379041340/PVFocus.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/969809558203674705/969823993580384306]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Mulhima</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Grubsong Damage Scaling</Name>
+    <Description>Mod that makes the amount of SOUL restored by Grubsong / Grubsong + Grubberfly's Elegy scale with the amount of damage taken.</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/GrubsongDamageScaling/GrubsongDamageScaling.dll]]></Link>
+    <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/GrubsongDamageScaling]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Exempt-Medic</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>DumbMod</Name>
+    <Description>The Knight, All NPCs, and All Enemies are invisible</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/953726791963541565/953928816340918282/dumbmod1578.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/953726791963541565/953928816567398431]]></Repository>
+    <Tags>
+        <Tag>Utility Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>ygsbzr</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Uumuu Plus</Name>
+    <Description>Buffed Uumuu. Requires HKTool</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/950606809448734720/953543330464157756/UumuuPlus.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/950606809448734720/953543330434809886]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>HKLab</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Hunter's Journal Setter</Name>
+    <Description>Gives all Journal Entries upon collecting the Hunter's Journal</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/950246396840271913/950473085000245358/HunterJournalSetter.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/950246396840271913/950473085151248394]]></Repository>
+    <Tags>
+        <Tag>Utility Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Mulhima</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Radiance Contact Hitbox</Name>
+    <Description>Adds Contact Damage to Radiance </Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/932008224427753472/933032915548377128/RadianceContactHitbox.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/932008224427753472/933032915447730267]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Mulhima</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>TitleSwapper: AX2U Start Streaming</Name>
+    <Description>Swaps the game title asset</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919260644287586334/TitleSwapper.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919260644543455322]]></Repository>
+    <Tags>
+        <Tag>Meme Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Mulhima</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Title Swapper: Soviet Edition</Name>
+    <Description>Swaps the menu title</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919643798991163463]]></Repository>
+    <Tags>
+        <Tag>Meme Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Mulhima</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Yeet Attack</Name>
+    <Description>Disabled regular Nail Slashes: Only Nail Arts can be used</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/917831204395417610/918220051063111710/YeetAttack.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/917831204395417610/918220051268665374]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Mulhima</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Eternal Grubs</Name>
+    <Description>A mod that makes it so that Grubfather never eats the Grubs. Requires SFCore.</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/EternalGrubs/EternalGrubs.dll]]></Link>
+    <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/EternalGrubs]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Exempt-Medic</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Carefree Melody High Chance</Name>
+    <Description>Makes Carefree Melody have the 90.9090% chance every time</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037526163981078598/CarefreeMelodyHighChance.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/1037526164274696232]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Exempt-Medic</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Carefree RNG Reset</Name>
+    <Description>Sets Carefree Melody to highest chance in Hall of Gods</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037537512647831684/CarefreeRngReset.dll]]></Link>
+    <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/1037537512920453173]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>Exempt-Medic</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Boss Control Mod</Name>
+    <Description>Allows the player to play as some Bosses, including Radiance, The Hollow Knight, Grimm, Nail Master. English Translation of page: https://github-com.translate.goog/WLLEGit/HollowKnightMod?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://github.com/WLLEGit/HollowKnightMod/releases/download/v3.0/Controller.zip]]></Link>
+    <Repository><![CDATA[https://github.com/WLLEGit/HollowKnightMod]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>WLLEGit</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Manhunt Mods</Name>
+    <Description>"AKA ""MP_ mods""
+A series of mods that each do one specific thing, to be used when playing Multiplayer Games"</Description>
+    <Version>1.5.0.0</Version>
+    <Link SHA256=""><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Link>
+    <Repository><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Repository>
+    <Tags>
+        <Tag>Gameplay Mod</Tag>
+    </Tags>
+    <Authors>
+        <Author>fireb0rn</Author>
+    </Authors>
+</Manifest>
+</ModLinks>

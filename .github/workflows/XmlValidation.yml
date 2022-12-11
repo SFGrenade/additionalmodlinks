@@ -1,0 +1,34 @@
+name: Validate-XML
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: korelstar/xmllint-problem-matcher@v1
+      - name: Setup XMLLint
+        run: sudo apt update && sudo apt install --no-install-recommends -y libxml2-utils
+      - name: Validate ModLinks.xml
+        run: xmllint --noblanks ModLinks.xml --schema Schemas/ModLinks.xml
+
+  verify:
+    needs: [build]
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup ModLinksShaVerifier
+        run: |
+          wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v2/linux.zip
+          unzip linux.zip
+      - name: Verify ModLinks.xml SHAs
+        run: ./ModlinksShaVerifier ModLinks.xml
