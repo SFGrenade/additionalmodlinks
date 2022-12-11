@@ -804,186 +804,185 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
     </Manifest>
     <Manifest>
         <Name>Pure Vessel Focus</Name>
-        <Description>Makes Pure Vessel heal 25% when Focusing</Name>
-    </Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/969809558203674705/969823993379041340/PVFocus.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/969809558203674705/969823993580384306]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Mulhima</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Grubsong Damage Scaling</Name>
-    <Description>Mod that makes the amount of SOUL restored by Grubsong / Grubsong + Grubberfly's Elegy scale with the amount of damage taken.</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/GrubsongDamageScaling/GrubsongDamageScaling.dll]]></Link>
-    <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/GrubsongDamageScaling]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Exempt-Medic</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>DumbMod</Name>
-    <Description>The Knight, All NPCs, and All Enemies are invisible</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/953726791963541565/953928816340918282/dumbmod1578.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/953726791963541565/953928816567398431]]></Repository>
-    <Tags>
-        <Tag>Utility Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>ygsbzr</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Uumuu Plus</Name>
-    <Description>Buffed Uumuu. Requires HKTool</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/950606809448734720/953543330464157756/UumuuPlus.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/950606809448734720/953543330434809886]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>HKLab</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Hunter's Journal Setter</Name>
-    <Description>Gives all Journal Entries upon collecting the Hunter's Journal</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/950246396840271913/950473085000245358/HunterJournalSetter.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/950246396840271913/950473085151248394]]></Repository>
-    <Tags>
-        <Tag>Utility Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Mulhima</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Radiance Contact Hitbox</Name>
-    <Description>Adds Contact Damage to Radiance </Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/932008224427753472/933032915548377128/RadianceContactHitbox.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/932008224427753472/933032915447730267]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Mulhima</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>TitleSwapper: AX2U Start Streaming</Name>
-    <Description>Swaps the game title asset</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919260644287586334/TitleSwapper.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919260644543455322]]></Repository>
-    <Tags>
-        <Tag>Meme Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Mulhima</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Title Swapper: Soviet Edition</Name>
-    <Description>Swaps the menu title</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919643798991163463]]></Repository>
-    <Tags>
-        <Tag>Meme Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Mulhima</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Yeet Attack</Name>
-    <Description>Disabled regular Nail Slashes: Only Nail Arts can be used</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/917831204395417610/918220051063111710/YeetAttack.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/917831204395417610/918220051268665374]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Mulhima</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Eternal Grubs</Name>
-    <Description>A mod that makes it so that Grubfather never eats the Grubs. Requires SFCore.</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/EternalGrubs/EternalGrubs.dll]]></Link>
-    <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/EternalGrubs]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Exempt-Medic</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Carefree Melody High Chance</Name>
-    <Description>Makes Carefree Melody have the 90.9090% chance every time</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037526163981078598/CarefreeMelodyHighChance.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/1037526164274696232]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Exempt-Medic</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Carefree RNG Reset</Name>
-    <Description>Sets Carefree Melody to highest chance in Hall of Gods</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037537512647831684/CarefreeRngReset.dll]]></Link>
-    <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/1037537512920453173]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>Exempt-Medic</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Boss Control Mod</Name>
-    <Description>Allows the player to play as some Bosses, including Radiance, The Hollow Knight, Grimm, Nail Master. English Translation of page: https://github-com.translate.goog/WLLEGit/HollowKnightMod?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://github.com/WLLEGit/HollowKnightMod/releases/download/v3.0/Controller.zip]]></Link>
-    <Repository><![CDATA[https://github.com/WLLEGit/HollowKnightMod]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>WLLEGit</Author>
-    </Authors>
-</Manifest>
-<Manifest>
-    <Name>Manhunt Mods</Name>
-    <Description>"AKA ""MP_ mods""
+        <Description>Makes Pure Vessel heal 25% when Focusing</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/969809558203674705/969823993379041340/PVFocus.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/969809558203674705/969823993580384306]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Grubsong Damage Scaling</Name>
+        <Description>Mod that makes the amount of SOUL restored by Grubsong / Grubsong + Grubberfly's Elegy scale with the amount of damage taken.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/GrubsongDamageScaling/GrubsongDamageScaling.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/GrubsongDamageScaling]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DumbMod</Name>
+        <Description>The Knight, All NPCs, and All Enemies are invisible</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/953726791963541565/953928816340918282/dumbmod1578.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/953726791963541565/953928816567398431]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>ygsbzr</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Uumuu Plus</Name>
+        <Description>Buffed Uumuu. Requires HKTool</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/950606809448734720/953543330464157756/UumuuPlus.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/950606809448734720/953543330434809886]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>HKLab</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Hunter's Journal Setter</Name>
+        <Description>Gives all Journal Entries upon collecting the Hunter's Journal</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/950246396840271913/950473085000245358/HunterJournalSetter.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/950246396840271913/950473085151248394]]></Repository>
+        <Tags>
+            <Tag>Utility Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Radiance Contact Hitbox</Name>
+        <Description>Adds Contact Damage to Radiance </Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/932008224427753472/933032915548377128/RadianceContactHitbox.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/932008224427753472/933032915447730267]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>TitleSwapper: AX2U Start Streaming</Name>
+        <Description>Swaps the game title asset</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919260644287586334/TitleSwapper.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919260644543455322]]></Repository>
+        <Tags>
+            <Tag>Meme Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Title Swapper: Soviet Edition</Name>
+        <Description>Swaps the menu title</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919643798991163463]]></Repository>
+        <Tags>
+            <Tag>Meme Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Yeet Attack</Name>
+        <Description>Disabled regular Nail Slashes: Only Nail Arts can be used</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/917831204395417610/918220051063111710/YeetAttack.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/917831204395417610/918220051268665374]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Eternal Grubs</Name>
+        <Description>A mod that makes it so that Grubfather never eats the Grubs. Requires SFCore.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HK-Mods/raw/main/PUBLIC/EternalGrubs/EternalGrubs.dll]]></Link>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/EternalGrubs]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Carefree Melody High Chance</Name>
+        <Description>Makes Carefree Melody have the 90.9090% chance every time</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037526163981078598/CarefreeMelodyHighChance.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/1037526164274696232]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Carefree RNG Reset</Name>
+        <Description>Sets Carefree Melody to highest chance in Hall of Gods</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037537512647831684/CarefreeRngReset.dll]]></Link>
+        <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/1037537512920453173]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Boss Control Mod</Name>
+        <Description>Allows the player to play as some Bosses, including Radiance, The Hollow Knight, Grimm, Nail Master. English Translation of page: https://github-com.translate.goog/WLLEGit/HollowKnightMod?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://github.com/WLLEGit/HollowKnightMod/releases/download/v3.0/Controller.zip]]></Link>
+        <Repository><![CDATA[https://github.com/WLLEGit/HollowKnightMod]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>WLLEGit</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Manhunt Mods</Name>
+        <Description>"AKA ""MP_ mods""
 A series of mods that each do one specific thing, to be used when playing Multiplayer Games"</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256=""><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Link>
-    <Repository><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Repository>
-    <Tags>
-        <Tag>Gameplay Mod</Tag>
-    </Tags>
-    <Authors>
-        <Author>fireb0rn</Author>
-    </Authors>
-</Manifest>
+        <Version>1.5.0.0</Version>
+        <Link SHA256=""><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Link>
+        <Repository><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Repository>
+        <Tags>
+            <Tag>Gameplay Mod</Tag>
+        </Tags>
+        <Authors>
+            <Author>fireb0rn</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
