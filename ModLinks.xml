@@ -359,7 +359,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Hatchlings Mod</Name>
         <Description>Various Weaverling convenience options, including # of, cosmetics, disabling attacks, and charm cost.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256="81a35c3c75069a0b02a7ac115f85f5cde69d7d4b0528fb6df75aefd4c129439d"><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod/releases/download/v1.5/Hatchling.1.5.dll]]></Link>
+        <Link SHA256="81a35c3c75069a0b02a7ac115f85f5cde69d7d4b0528fb6df75aefd4c129439d"><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod/releases/download/v1.5/Hatchling.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod]]></Repository>
         <Tags>
@@ -1006,7 +1006,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Description>"AKA ""MP_ mods""
 A series of mods that each do one specific thing, to be used when playing Multiplayer Games"</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Link>
+        <Link SHA256="497c87d00e85534a8676ab43b1ba7e8b81e399eda800ab7faed352d498e4e634"><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Repository>
         <Tags>
