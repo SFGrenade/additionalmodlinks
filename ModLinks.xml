@@ -6,7 +6,7 @@
         <Name>Convenient PoP</Name>
         <Description>This mod makes it so when you hit a PoP Soul Totem or a Wingsmould with your Nail it fills your Soul to full.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/EnderOnryo/Convenient_PoP/releases/download/1.0/Convenient.PoP.dll]]></Link>
+        <Link SHA256="0b45dc07936f276f42310aaa7fbc9fcae6603086b35e3b0aae6198f95eb7ba48"><![CDATA[https://github.com/EnderOnryo/Convenient_PoP/releases/download/1.0/Convenient.PoP.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/EnderOnryo/Convenient_PoP]]></Repository>
         <Tags>
@@ -20,7 +20,7 @@
         <Name>GoDump 1.5</Name>
         <Description>Sprite dump</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/889708343793442886/GODump.zip]]></Link>
+        <Link SHA256="27acfbdea634f4ecc891456cc885466db33aed10274d45dd72db14c8fc4723a8"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/889708343793442886/GODump.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[]]></Repository>
         <Tags>
@@ -31,7 +31,7 @@
         <Name>God Soul</Name>
         <Description>A mod that makes the entire game really, really hard.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/download/mod/GodSoul.zip]]></Link>
+        <Link SHA256="ac7d27a1f9e286c4f533bddcfafacc4971608fdbf2b06db6e5586839c9e82db7"><![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/download/mod/GodSoul.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[Nexade#4250 (I think that's what you mean)]]></Repository>
         <Tags>
@@ -45,7 +45,7 @@
         <Name>Momentum Knight</Name>
         <Description>A mod for Hollow Knight which allows you to customize acceleration and friction values. </Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/o7Moon/HollowKnight.MomentumKnight/releases/download/v1.0/MomentumKnight.dll]]></Link>
+        <Link SHA256="cd5700ff624b4ffcd9eb33e36b3467e9c9e1f341a06ce04f68293dbb8dc7334d"><![CDATA[https://github.com/o7Moon/HollowKnight.MomentumKnight/releases/download/v1.0/MomentumKnight.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/o7Moon/HollowKnight.MomentumKnight]]></Repository>
         <Tags>
@@ -59,7 +59,7 @@
         <Name>God Seeker +</Name>
         <Description>Various tweaks to enhance your Godhome experience</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus]]></Link>
+        <Link SHA256="158f3d4eeff1e776d522f8d9dc705974cd7d1b868d93cbcb50f6caff20a63f25"><![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus]]></Repository>
         <Tags>
@@ -73,7 +73,7 @@
         <Name>EscapeHatch</Name>
         <Description>Unfreeze game after exiting mod menu with f3</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879138066961424405/899325564962344980/EscapeHatch.dll]]></Link>
+        <Link SHA256="ba070f413d63a6961f063baed47fd1cca60b113a064c0a39e0fd64e3507b237d"><![CDATA[https://cdn.discordapp.com/attachments/879138066961424405/899325564962344980/EscapeHatch.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/772964112908156938/822611561427370054/910615517331595274]]></Repository>
         <Tags>
@@ -87,7 +87,7 @@
         <Name>Player Data Tracker</Name>
         <Description>Tracks player data. Most frequently used to display abilities/charms during Randomizer streams</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/822832351797182514/921886051176431676/PDT.zip]]></Link>
+        <Link SHA256="ee05d7aa740894ea9710fa912b771ec1d817972aecade9a8338e6486a0a54c4d"><![CDATA[https://cdn.discordapp.com/attachments/822832351797182514/921886051176431676/PDT.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/772964112908156938/822832351797182514/921886051486818354]]></Repository>
         <Tags>
@@ -101,7 +101,7 @@
         <Name>Enemy Hit Info</Name>
         <Description>Debug addon showing how many times you've hit the current enemy with different attack types</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/flibber-hk/HollowKnight.EnemyHitInfo/releases/download/v0.1/EnemyHitInfo.dll]]></Link>
+        <Link SHA256="66027e4281daa3e502f3d407dde26a7b7cd08ddbb8788535ce8a0ed907ae9216"><![CDATA[https://github.com/flibber-hk/HollowKnight.EnemyHitInfo/releases/download/v0.1/EnemyHitInfo.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/772964112908156938/822611561427370054/922181034974523463]]></Repository>
         <Tags>
@@ -115,7 +115,7 @@
         <Name>RemoveLaggyObjects</Name>
         <Description>Removes objects that cause lag, such as Nailsage Sly's candles</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/922947344939487282/RemoveLaggyObjects.dll]]></Link>
+        <Link SHA256="7b487dac850e17b61b107944f5063fd2ac00f37c197be72df82a4a67e77c7a2a"><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/922947344939487282/RemoveLaggyObjects.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879138134103846954/922947345233117225]]></Repository>
         <Tags>
@@ -129,7 +129,7 @@
         <Name>CustomImage</Name>
         <Description>A Hollow Knight Mod can change some sprites</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/1.5.7.8-2/CustomImage.dll]]></Link>
+        <Link SHA256="2d342774ac177565b3da60eb23b667e532204383bef1809226018f3cb9588883"><![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/1.5.7.8-2/CustomImage.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage]]></Repository>
         <Tags>
@@ -143,7 +143,7 @@
         <Name>DeathCounter</Name>
         <Description>very cool death counter, yes</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78/DeathCounter.dll]]></Link>
+        <Link SHA256="396ca32d78ce3edeaaafa60fd35a450c329a2e14a692078c0b3ccc51ac025e6d"><![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78/DeathCounter.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/DeathCounter]]></Repository>
         <Tags>
@@ -157,7 +157,7 @@
         <Name>TheCurseofsly</Name>
         <Description>A Hollow Knight Mod,make you can't get geo </Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly/releases/download/1.5-new/TheCurseofSly-2.1-fix.dll]]></Link>
+        <Link SHA256="9fd1afc30e721366a8fe960b5ec999edb2e716286d91ffc66a6e97a0896b9a30"><![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly/releases/download/1.5-new/TheCurseofSly-2.1-fix.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly]]></Repository>
         <Tags>
@@ -171,7 +171,7 @@
         <Name>FuryMod</Name>
         <Description>A mod if you equipped Fury of Fallen,you will be 1 health and can use it</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/HollowKnight.FuryMod/releases/download/1.5/FuryMod.dll]]></Link>
+        <Link SHA256="cabe30738573e10bb0f28d2abe709de2484eafcba265d6fc56b08b3b364b990b"><![CDATA[https://github.com/ygsbzr/HollowKnight.FuryMod/releases/download/1.5/FuryMod.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/HollowKnight.FuryMod]]></Repository>
         <Tags>
@@ -185,7 +185,7 @@
         <Name>DisablePercent</Name>
         <Description>Mod to stop showing % in the inventory menu, but will still show at the end. (Requires Vasi)</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/723344742322274357/926733968429170718/DisablePercent.dll]]></Link>
+        <Link SHA256="0979198f02a5ed32e2bdcb984926ca6aaac72887bdb1fd723dc4ffdf8f63f1d9"><![CDATA[https://cdn.discordapp.com/attachments/723344742322274357/926733968429170718/DisablePercent.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/772964112908156938/836256114659033098/926375632290598943]]></Repository>
         <Tags>
@@ -199,7 +199,7 @@
         <Name>Player Data Tracker for 1.5</Name>
         <Description>PDT ported and updated for 1.5. Used to show collected items in an OBS stream</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/822832351797182514/921886051176431676/PDT.zip]]></Link>
+        <Link SHA256="ee05d7aa740894ea9710fa912b771ec1d817972aecade9a8338e6486a0a54c4d"><![CDATA[https://cdn.discordapp.com/attachments/822832351797182514/921886051176431676/PDT.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/772964112908156938/836256114659033098/922191482226614282]]></Repository>
         <Tags>
@@ -213,7 +213,7 @@
         <Name>HideModList</Name>
         <Description>Replaces Mod names with "?????" in the corner of menus</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/925824653602205746/HideModList.dll]]></Link>
+        <Link SHA256="9cc16f9714b9d3ea7dd82bf8c209e175fdb80cef45c16b4126450aac6b8f61d7"><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/925824653602205746/HideModList.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879138134103846954/925824654340395019]]></Repository>
         <Tags>
@@ -227,7 +227,7 @@
         <Name>RemoveLaggyObjections</Name>
         <Description>Removes Sly's Candles from GodHome. Port of Mulhima's 1432 version.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/922947344939487282/RemoveLaggyObjects.dll]]></Link>
+        <Link SHA256="7b487dac850e17b61b107944f5063fd2ac00f37c197be72df82a4a67e77c7a2a"><![CDATA[https://cdn.discordapp.com/attachments/879138134103846954/922947344939487282/RemoveLaggyObjects.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879138134103846954/922947345233117225]]></Repository>
         <Tags>
@@ -248,7 +248,7 @@
 Requires: Satchel(v0.7.4+) and DebugMod (v1.4.9.1+)
 Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879130708302520321/927293991622418442/VoidWalker.dll]]></Link>
+        <Link SHA256="5d6482c20c110eebefbd361c3b2c02cf1d2d0ab99fdf28c9e81be40a0e884ef8"><![CDATA[https://cdn.discordapp.com/attachments/879130708302520321/927293991622418442/VoidWalker.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879130708302520321/927293991584677979]]></Repository>
         <Tags>
@@ -262,7 +262,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Exaltation</Name>
         <Description>allows you to empower your charms by progressing through GodHome</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.0.3/Exaltation.zip]]></Link>
+        <Link SHA256="aab6e0415ffbc8146aec9145581501922a454046e97ade61627a550eea14be1d"><![CDATA[https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.0.3/Exaltation.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/TheodoreChristianRadu/Exaltation]]></Repository>
         <Tags>
@@ -276,7 +276,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Bonfire</Name>
         <Description>A level-up system in Hollow Knight</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/TheodoreChristianRadu/BonfireMod/releases/download/2.1.0/BonfireMod.zip]]></Link>
+        <Link SHA256="132ec8359b572a00a6bb76e2b217528f2578be90e6d453c4fcb5c47f36035247"><![CDATA[https://github.com/TheodoreChristianRadu/BonfireMod/releases/download/2.1.0/BonfireMod.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/TheodoreChristianRadu/BonfireMod]]></Repository>
         <Tags>
@@ -290,7 +290,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Lightbringer</Name>
         <Description>One of the first major Gameplay overhaul mods: Changes how the Knight attacks, as well as modifies many game aspects.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.Lightbringer/releases/download/2.1.5/Lightbringer.zip]]></Link>
+        <Link SHA256="47196e11b6751f83beaf71939045208e8006274f2a5f9c3a8f1e4fdfcc8782be"><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.Lightbringer/releases/download/2.1.5/Lightbringer.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.Lightbringer]]></Repository>
         <Tags>
@@ -304,7 +304,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>ModCommon (1578)</Name>
         <Description>ModCommon ported to 1578 ಠ_ಠ (required for one port of AnyRad 1578 port)</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/941635092550406154/1.5ModCommon.dll]]></Link>
+        <Link SHA256="a4959501676033bb66136b466597f266794ef3627c92c4455c94b2a6450b69aa"><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/941635092550406154/1.5ModCommon.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/941635092957237288]]></Repository>
         <Tags>
@@ -315,7 +315,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Any Radiance (1578 port)</Name>
         <Description>AnyRad for 1578 (Requires ModCommon1578)</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/940533846586302464/Any_Radiance1578.dll]]></Link>
+        <Link SHA256="7eb8f2fdc08d7c4e6f4e400f9799e49be20460b0a201453a9e5cc86593964689"><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/940533846586302464/Any_Radiance1578.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940533846527606795]]></Repository>
         <Tags>
@@ -326,7 +326,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Godly Nightmares (1578)</Name>
         <Description>Godly Nightmares, ported to 1578</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/940534705248428052/GodlyNightmares1578.dll]]></Link>
+        <Link SHA256="0d5aa30f5731721e639c0fcf2bf41dbb0e283cc08988f7d3357dd9b16b7501c3"><![CDATA[https://cdn.discordapp.com/attachments/610754780461006848/940534705248428052/GodlyNightmares1578.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940534706255069245]]></Repository>
         <Tags>
@@ -337,7 +337,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Pantheons Hit Counter</Name>
         <Description>Counts hits in pantheons automatically.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.3.5/PantheonsHitCounter.zip]]></Link>
+        <Link SHA256="ac3acedf57bbd282e7bb2b762f4019c0b71e80843fdd45aa13006d2ff2b50e0f"><![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.3.5/PantheonsHitCounter.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/latest/download/PantheonsHitCounter.zip]]></Repository>
         <Tags>
@@ -348,7 +348,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Hit Counter</Name>
         <Description>Hit Counter mod for Hollow Knight.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/releases/latest/download/HitCounter.zip]]></Link>
+        <Link SHA256="3c341027545572efe9f5ccf447dd46f2c296117a44b4e4d9f09fbb4a9ce1bcc6"><![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/releases/latest/download/HitCounter.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter]]></Repository>
         <Tags>
@@ -359,7 +359,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Hatchlings Mod</Name>
         <Description>Various Weaverling convenience options, including # of, cosmetics, disabling attacks, and charm cost.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod/releases/download/v1.5/Hatchling.1.5.dll]]></Link>
+        <Link SHA256="81a35c3c75069a0b02a7ac115f85f5cde69d7d4b0528fb6df75aefd4c129439d"><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod/releases/download/v1.5/Hatchling.1.5.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/Hollow-Knight-Hatchling-Mod]]></Repository>
         <Tags>
@@ -373,7 +373,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Companion Cloth</Name>
         <Description>Let Cloth accompany and fight with you all the way</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://jmp.clazex.net/hk-mod/companion-cloth]]></Link>
+        <Link SHA256="9e501a37ce1cd44b9a8edeb128e6695fba698d57b2a2ab1e3450d7c51f49c90c"><![CDATA[https://jmp.clazex.net/hk-mod/companion-cloth]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Clazex/HollowKnight.CompanionCloth]]></Repository>
         <Tags>
@@ -387,7 +387,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Health Share</Name>
         <Description>Let some bosses use shared health and provides a health sharing API</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://jmp.clazex.net/hk-mod/health-share]]></Link>
+        <Link SHA256="e45edf18eaf0764fddfca5b9cb88d7a2d8d2a9ccab80936963ca3f3cd76ca559"><![CDATA[https://jmp.clazex.net/hk-mod/health-share]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Clazex/HollowKnight.HealthShare]]></Repository>
         <Tags>
@@ -401,7 +401,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Everwatchers</Name>
         <Description>A mod boss based on Watcher Knights, allowing you to fight all of them simultaneously and add more of them</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://jmp.clazex.net/hk-mod/everwatchers]]></Link>
+        <Link SHA256="5f6ec894bcd143942b26a674e2abe0541f5daae838b48a1909c0b2983936acc0"><![CDATA[https://jmp.clazex.net/hk-mod/everwatchers]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers]]></Repository>
         <Tags>
@@ -415,7 +415,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>MultiZap</Name>
         <Description>A mod where the Uumuu lightning attack follows the player through the entire game</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/941523273156558909/941572769450192896/MultiZap.dll]]></Link>
+        <Link SHA256="c6591f79784c6188d5bf3fd6f7e857785421cba1809346e701c14b6d3e92362d"><![CDATA[https://cdn.discordapp.com/attachments/941523273156558909/941572769450192896/MultiZap.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/941523273156558909/941572769685078016]]></Repository>
         <Tags>
@@ -429,7 +429,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>PV Focus</Name>
         <Description>Makes PV heal 25% when it does focus attack</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/969809558203674705/969823993379041340/PVFocus.dll]]></Link>
+        <Link SHA256="2e9db554ab633b8709ba51899bc447640acc7a4bd844177374a9c91594ec6c31"><![CDATA[https://cdn.discordapp.com/attachments/969809558203674705/969823993379041340/PVFocus.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/969809558203674705/969823993580384306]]></Repository>
         <Tags>
@@ -443,7 +443,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Title Swapper</Name>
         <Description>Allows the player to replace the Main Menu title with a custom one</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
+        <Link SHA256="1701226b40288950eec97850d3ee4b092a43447c82c9c5cef354acf4de190b9c"><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919643798991163463]]></Repository>
         <Tags>
@@ -457,7 +457,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Dumb Radiance</Name>
         <Description>Changes the Radiance fight. This is a 1.5 port</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966009732970201178/DumbRadiance.zip]]></Link>
+        <Link SHA256="d0028f828b649b222d75bca42f99216ffde05251df2c4429455f2a2307b4e266"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966009732970201178/DumbRadiance.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/966009733200891994]]></Repository>
         <Tags>
@@ -468,7 +468,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Atomic Radiance</Name>
         <Description>Changes Radiance fight. This is a 1.5 port</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823242847883294/Atomic_Radiance.zip]]></Link>
+        <Link SHA256="35bebfd71d0c228e5389db5943842f8af80ae7fde66bbab38226ae4c0fdf0ae1"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823242847883294/Atomic_Radiance.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[]]></Repository>
         <Tags>
@@ -479,7 +479,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Ultimatium Radiance</Name>
         <Description>Changes Radiance fight. This is a 1.5 port</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823243208589312/Ultimatum_Radiance.zip]]></Link>
+        <Link SHA256="e6ae7746426e7ef313cfa27ad860d011527b65c4444298b43d57c8a35d746f88"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823243208589312/Ultimatum_Radiance.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/966010107169226823]]></Repository>
         <Tags>
@@ -490,7 +490,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>IronHead Radiance</Name>
         <Description>Changes Radiance fight. This is a 1.5 port</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966010579053592687/IronHeadRadiance-v1.0.0.zip]]></Link>
+        <Link SHA256="00bf988fd3b4b852b659acde3f065da10ae9c454b6d271d3fa4f6d19272ed016"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966010579053592687/IronHeadRadiance-v1.0.0.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/966010579217186916]]></Repository>
         <Tags>
@@ -504,20 +504,9 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Enemy Randomizer [1.5 port]</Name>
         <Description>Randomizes Enemies. This .zip comes with ModCommon1578, which is required to run this port.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966935382308573204/EnemyRandomizerModCommon.zip]]></Link>
+        <Link SHA256="01a2034b96104114d33dab34674758e4186f5cb7cf4e274968689a3abeaa7587"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/966935382308573204/EnemyRandomizerModCommon.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[]]></Repository>
-        <Tags>
-            <Tag>Gameplay Mod</Tag>
-        </Tags>
-    </Manifest>
-    <Manifest>
-        <Name>royal dreamer</Name>
-        <Description>royal dreamer, but on 1.5</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940534706255069245]]></Link>
-        <Dependencies />
-        <Repository><![CDATA[https://discord.com/channels/283467363729408000/610754780461006848/940534706255069245]]></Repository>
         <Tags>
             <Tag>Gameplay Mod</Tag>
         </Tags>
@@ -526,7 +515,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Godhome Win Loss Tracker</Name>
         <Description>Tracks per-boss win/loss in Hall of Gods and pantheons</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.6.0.0/GodhomeWinLossTracker.zip]]></Link>
+        <Link SHA256="a573ac4fbd4f985171f5b881df5b9e3cfbfa8e663b22eea2f8e4846871cf91f5"><![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.6.0.0/GodhomeWinLossTracker.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker]]></Repository>
         <Tags>
@@ -540,7 +529,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Any Radiance (Satchel 1578 port)</Name>
         <Description>Better AnyRad for 1578 (Requires Satchel)</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823242453631016/Any_Radiance.zip]]></Link>
+        <Link SHA256="3fe4ce585c77eacf5f67a6d0a64b1537ff478f675afe60ac06b3b768665b2aab"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1034823242453631016/Any_Radiance.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[]]></Repository>
         <Tags>
@@ -554,7 +543,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Daughter of Hallownest (1.5 port)</Name>
         <Description>Improved version of the Hornet 2 fight</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/ygsbzr/Daughter-of-Hallownest/releases/download/1.5port/DoH.zip]]></Link>
+        <Link SHA256="e00a489f7786920b3f1d1a9248b9d0aa8a765fd8f16f4cfee277be3945981d09"><![CDATA[https://github.com/ygsbzr/Daughter-of-Hallownest/releases/download/1.5port/DoH.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/ygsbzr/Daughter-of-Hallownest]]></Repository>
         <Tags>
@@ -568,7 +557,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Child of Light (1.5 Port)</Name>
         <Description>A mod empowering players with radiant spell for those who seek the binding light that plagues our dreams.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.ChildOfLight/releases/download/2.1.0/ChildOfLight.zip]]></Link>
+        <Link SHA256="a4143ea0ee9237eca54308936a720e476d99c0ff4992500b4b6d76ae51701397"><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.ChildOfLight/releases/download/2.1.0/ChildOfLight.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/TheodoreChristianRadu/HollowKnight.ChildOfLight]]></Repository>
         <Tags>
@@ -582,7 +571,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Infinite AbsRad Phases</Name>
         <Description>Mod that makes an Absolute Radiance phase infinite (5 does nothing). Requires SFCore and Satchel.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/InfiniteAbsRadPhases/releases/download/v1.0.0.37474/InfiniteAbsRadPhases.zip]]></Link>
+        <Link SHA256="6cee7573de4807c8359dd7423ac3c0cce463007c9e598cb64dd5eb67a6d3bedf"><![CDATA[https://github.com/Exempt-Medic/InfiniteAbsRadPhases/releases/download/v1.0.0.37474/InfiniteAbsRadPhases.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/InfiniteAbsRadPhases]]></Repository>
         <Tags>
@@ -596,7 +585,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Change Start Location</Name>
         <Description>Use menu changer page to add change start location to the options rando has. as a bonus it skips the opening cutscene. Requires Menu Changer</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879130542501658624/1030240858102059148/ChangeStartLocation.dll]]></Link>
+        <Link SHA256="b87d1f54e11eb0a08f5a57bb9e2fb9ccc0dd9c486bd524ec7ed870201540d195"><![CDATA[https://cdn.discordapp.com/attachments/879130542501658624/1030240858102059148/ChangeStartLocation.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879130542501658624/1030240858706026506]]></Repository>
         <Tags>
@@ -610,7 +599,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>GPZ Precepts</Name>
         <Description>Makes GPZ read out (no audio) a random precept each time he takes damage. During that time, he cannot be damaged again. Requires SFCore.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/GPZ_Precepts/releases/download/v1.0.0.35402/GPZ_Precepts.zip]]></Link>
+        <Link SHA256="106ac9ad7dfee61982eed22456b2f88a1258a281fde9a40c990a6196162c0e82"><![CDATA[https://github.com/Exempt-Medic/GPZ_Precepts/releases/download/v1.0.0.35402/GPZ_Precepts.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/GPZ_Precepts]]></Repository>
         <Tags>
@@ -624,7 +613,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Menderbug Options</Name>
         <Description>Mod that lets you set Menderbug's spawn chance, choose whether Menderbug respawns after dying, and choose whether the sign must be broken. Requires Satchel.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/MenderbugOptions/releases/download/v1.0.0.37613/MenderbugOptions.zip]]></Link>
+        <Link SHA256="8ff02f6212165819ac12c2d5b580b708dd835b2056e948b82a6a9d17854d1642"><![CDATA[https://github.com/Exempt-Medic/MenderbugOptions/releases/download/v1.0.0.37613/MenderbugOptions.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/MenderbugOptions]]></Repository>
         <Tags>
@@ -638,7 +627,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Nailmaster's Pride</Name>
         <Description>Mod that makes Nailmaster's Glory grant all Nail Arts, automatically charge Nail Arts, and prevent regular Nail attacks.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/NailmastersPride/releases/download/v1.0.0.37739/NailmastersPride.zip]]></Link>
+        <Link SHA256="5e68f88c30841cd869a65b4a8f4ea2272f355392b998e8b6bab2b871e726f8d7"><![CDATA[https://github.com/Exempt-Medic/NailmastersPride/releases/download/v1.0.0.37739/NailmastersPride.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/NailmastersPride]]></Repository>
         <Tags>
@@ -652,7 +641,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Nailmasters Damaged Only By Nail Arts</Name>
         <Description>Mod that makes each Nailmaster only able to be damaged using their Nail Art. Sly can be damaged using all three.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/NailmastersNailArtsOnly/releases/download/v1.0.0.35719/NailmastersNailArtsOnly.zip]]></Link>
+        <Link SHA256="db5fd05a2b35ce918882a54225016adfebe964de390d164a2c8262faf6e1e6fc"><![CDATA[https://github.com/Exempt-Medic/NailmastersNailArtsOnly/releases/download/v1.0.0.35719/NailmastersNailArtsOnly.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/NailmastersDamagedOnlyByNailArts]]></Repository>
         <Tags>
@@ -666,7 +655,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Disable Enemy Geo</Name>
         <Description>Mod that makes enemies no longer drop Geo. Requires SFCore.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/DisableEnemyGeo/releases/download/v1.0.0.34893/DisableEnemyGeo.zip]]></Link>
+        <Link SHA256="9a7649f30ff48a1395582c0f11b8ac22f92ccc55551e9715862698156579f3c2"><![CDATA[https://github.com/Exempt-Medic/DisableEnemyGeo/releases/download/v1.0.0.34893/DisableEnemyGeo.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/DisableEnemyGeo]]></Repository>
         <Tags>
@@ -680,7 +669,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Always Furious</Name>
         <Description>Mod that makes Fury of the Fallen benefit Nail slashes and Nail Arts at any HP. "ALL CHARMS END" (AbsRad, Radiance, and HK finales) will still cancel the effects. Requires SFCore.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/AlwaysFurious/releases/download/v1.0.0.33859/AlwaysFurious.zip]]></Link>
+        <Link SHA256="7b84f22111e3e033f472d424f08419cc0056843cea2c6117f09a5522dc59e6c0"><![CDATA[https://github.com/Exempt-Medic/AlwaysFurious/releases/download/v1.0.0.33859/AlwaysFurious.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/AlwaysFurious]]></Repository>
         <Tags>
@@ -694,7 +683,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Dream Warpers</Name>
         <Description>Mod that makes Gorb, Elder Hu, and No Eyes teleport 100% of the time after being damaged. Requires SFCore.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/999108128392089630/999125432253300836/Dream_Warpers.dll]]></Link>
+        <Link SHA256="72a4744971075bc79fd8dbd69eb16f9b51c3a22172570310fe7fdd1b4ee36ed1"><![CDATA[https://cdn.discordapp.com/attachments/999108128392089630/999125432253300836/Dream_Warpers.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/DreamWarpers]]></Repository>
         <Tags>
@@ -708,7 +697,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Quick Focus + Hiveblood</Name>
         <Description>Small mod that adds interaction between Quick Focus and Hiveblood. Requires SFCore</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/989619600369016842/989986212464959498/Focus_Hiveblood.dll]]></Link>
+        <Link SHA256="5628efb00f4743f341bd3c5529fd7ce4ea00391bbe02c3a955a5e4aaeb8fd8b2"><![CDATA[https://cdn.discordapp.com/attachments/989619600369016842/989986212464959498/Focus_Hiveblood.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/989619600369016842/989986212687253544]]></Repository>
         <Tags>
@@ -722,7 +711,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Spell Twister Focus (Normal)</Name>
         <Description>Spell Twister reduces the cost of Focus. Requires SFCore</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/989619600369016842/989649883252285460/Spell_Twister_Focusing_NORMAL.dll]]></Link>
+        <Link SHA256="14521217dad106906785e9867cbc87a5f9613d35af3030b9121d472d9a166379"><![CDATA[https://cdn.discordapp.com/attachments/989619600369016842/989649883252285460/Spell_Twister_Focusing_NORMAL.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/989619600369016842/989649885634625536]]></Repository>
         <Tags>
@@ -736,7 +725,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Spell Twister Focus (Faster)</Name>
         <Description>Spell Twister reduces the cost of and increases the speed of Focus. Requires SFCore</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/986819387069714472/986844535638351883/Spell_Twister_Focusing_FASTER.dll]]></Link>
+        <Link SHA256="75310cd703fd152adcad692b2d5e10534cd742b71e79ddff0a3b2eb6c1cf818e"><![CDATA[https://cdn.discordapp.com/attachments/986819387069714472/986844535638351883/Spell_Twister_Focusing_FASTER.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/986819387069714472/986844535994847343]]></Repository>
         <Tags>
@@ -750,7 +739,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Silent Dreamshield</Name>
         <Description>A mod that makes Dreamshield not play audio when Nail slashing. Require SFCore.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/SilentDreamshield/releases/download/v1.0.0.35944/SilentDreamshield.zip]]></Link>
+        <Link SHA256="d198397fec6fa147a1d3e4b4acf4e4d1e2ddcbf68207a910e43795b6d9239d70"><![CDATA[https://github.com/Exempt-Medic/SilentDreamshield/releases/download/v1.0.0.35944/SilentDreamshield.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/SilentDreamshield]]></Repository>
         <Tags>
@@ -764,7 +753,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Faster Hiveblood</Name>
         <Description>A mod that makes Hiveblood restore Masks twice as fast (does not affect the Joni's Blessing Mask restoration rate). Requires SFCore.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/HiveKin/releases/download/v1.0.0-alpha/HiveKin.zip]]></Link>
+        <Link SHA256="87f8119ccce4056ae9fb8cb3ea33f999470b634e930c04e799c77e1fb66f9367"><![CDATA[https://github.com/Exempt-Medic/HiveKin/releases/download/v1.0.0-alpha/HiveKin.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/FasterHiveblood]]></Repository>
         <Tags>
@@ -778,7 +767,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Grimmchild Everywhere</Name>
         <Description>Allows Grimmchild to appear during the Troupe Master Grimm and Nightmare King Grimm fights. Does NOT work in the Troupe Master Grimm fight in Dirtmouth. Requires SFCore.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/GrimmchildAnywhere/releases/download/v1.0.0.35457/GrimmchildAnywhere.zip]]></Link>
+        <Link SHA256="7404630d66eb8e975bce77b355260ff04b45e5b74bd9f1531cd938c73d0fd768"><![CDATA[https://github.com/Exempt-Medic/GrimmchildAnywhere/releases/download/v1.0.0.35457/GrimmchildAnywhere.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/GrimmchildEverywhere]]></Repository>
         <Tags>
@@ -792,7 +781,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Heavy Blow Damage</Name>
         <Description>Increases Damage by 15% when Heavy Blow is equipped</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/977649225410150420/977657957049315348/HeavyBlowDamage.zip]]></Link>
+        <Link SHA256="4faf8bee25b6a4910e21110bdadab215e2c468ef74f788afdf0dcc7d81cb92d2"><![CDATA[https://cdn.discordapp.com/attachments/977649225410150420/977657957049315348/HeavyBlowDamage.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/977649225410150420/977657957246451762]]></Repository>
         <Tags>
@@ -806,7 +795,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Spell Damage Control</Name>
         <Description>Allows the user to adjust some of the values for spells. You must launch the game with the mod at least once, and then edit the Global Settings file while the game is closed.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/975025795623948368/1036859019794591804/SpellDamageControl.zip]]></Link>
+        <Link SHA256="68731af7ce47f6aa5a1606e083131af1dd1f36fc9491e4154d8260a64fc64021"><![CDATA[https://cdn.discordapp.com/attachments/975025795623948368/1036859019794591804/SpellDamageControl.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/975025795623948368/1036859020163694672]]></Repository>
         <Tags>
@@ -820,7 +809,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Fast Nail</Name>
         <Description>Allows the player to swing their nail, *very* fast.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/972696304482410506/973436326001123328/FastNail.dll]]></Link>
+        <Link SHA256="007a060cdbff23e802a8aee26ecf70fba6bd6ec797491aa16d564ff8f6b01ad6"><![CDATA[https://cdn.discordapp.com/attachments/972696304482410506/973436326001123328/FastNail.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/972696304482410506/973436325858533387]]></Repository>
         <Tags>
@@ -834,7 +823,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Pure Vessel Focus</Name>
         <Description>Makes Pure Vessel heal 25% when Focusing</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/969809558203674705/969823993379041340/PVFocus.dll]]></Link>
+        <Link SHA256="2e9db554ab633b8709ba51899bc447640acc7a4bd844177374a9c91594ec6c31"><![CDATA[https://cdn.discordapp.com/attachments/969809558203674705/969823993379041340/PVFocus.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/969809558203674705/969823993580384306]]></Repository>
         <Tags>
@@ -848,7 +837,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Grubsong Damage Scaling</Name>
         <Description>Mod that makes the amount of SOUL restored by Grubsong / Grubsong + Grubberfly's Elegy scale with the amount of damage taken.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/GrubsongDamageScaling/releases/download/v1.0.0.35495/GrubsongDamageScaling.zip]]></Link>
+        <Link SHA256="89d25e52d3a3ff35e5f7a69af0bba30b82a0b2a40f3fe0eef739c9941bd43cab"><![CDATA[https://github.com/Exempt-Medic/GrubsongDamageScaling/releases/download/v1.0.0.35495/GrubsongDamageScaling.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/GrubsongDamageScaling]]></Repository>
         <Tags>
@@ -862,7 +851,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>DumbMod</Name>
         <Description>The Knight, All NPCs, and All Enemies are invisible</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/953726791963541565/953928816340918282/dumbmod1578.dll]]></Link>
+        <Link SHA256="9c97b64cf36fccd8d279fcd75ebd5859b6213ab33462875f1afea78c02573b3d"><![CDATA[https://cdn.discordapp.com/attachments/953726791963541565/953928816340918282/dumbmod1578.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/953726791963541565/953928816567398431]]></Repository>
         <Tags>
@@ -876,7 +865,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Uumuu Plus</Name>
         <Description>Buffed Uumuu. Requires HKTool</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/950606809448734720/953543330464157756/UumuuPlus.dll]]></Link>
+        <Link SHA256="054bb6f0dbef7affd523d0c4196ba03d4483895efa769dc3c2c7f51974d229d3"><![CDATA[https://cdn.discordapp.com/attachments/950606809448734720/953543330464157756/UumuuPlus.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/950606809448734720/953543330434809886]]></Repository>
         <Tags>
@@ -890,7 +879,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Hunter's Journal Setter</Name>
         <Description>Gives all Journal Entries upon collecting the Hunter's Journal</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/950246396840271913/950473085000245358/HunterJournalSetter.dll]]></Link>
+        <Link SHA256="702b3564ee9659c9d966ba662dd9e0262a2d63f87e4f1bac4ad06455e4ad0523"><![CDATA[https://cdn.discordapp.com/attachments/950246396840271913/950473085000245358/HunterJournalSetter.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/950246396840271913/950473085151248394]]></Repository>
         <Tags>
@@ -904,7 +893,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Radiance Contact Hitbox</Name>
         <Description>Adds Contact Damage to Radiance </Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/932008224427753472/933032915548377128/RadianceContactHitbox.dll]]></Link>
+        <Link SHA256="2ea3c77ed00be61bef223d1fabf2a3897a0e16409d837ee110b7128bf438fb5e"><![CDATA[https://cdn.discordapp.com/attachments/932008224427753472/933032915548377128/RadianceContactHitbox.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/932008224427753472/933032915447730267]]></Repository>
         <Tags>
@@ -918,7 +907,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>TitleSwapper: AX2U Start Streaming</Name>
         <Description>Swaps the game title asset</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919260644287586334/TitleSwapper.dll]]></Link>
+        <Link SHA256="686a142221181c2e1a92f81b172fc8ed50412657d980c0ccfdd2c1e1cee78861"><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919260644287586334/TitleSwapper.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919260644543455322]]></Repository>
         <Tags>
@@ -932,7 +921,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Title Swapper: Soviet Edition</Name>
         <Description>Swaps the menu title</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
+        <Link SHA256="1701226b40288950eec97850d3ee4b092a43447c82c9c5cef354acf4de190b9c"><![CDATA[https://cdn.discordapp.com/attachments/919072786524282890/919643799196688384/TitleSwapper.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/919072786524282890/919643798991163463]]></Repository>
         <Tags>
@@ -946,7 +935,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Yeet Attack</Name>
         <Description>Disabled regular Nail Slashes: Only Nail Arts can be used</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/917831204395417610/918220051063111710/YeetAttack.dll]]></Link>
+        <Link SHA256="e2798735fd92274cc6ccd8c992541a01c754d3fdcc7a026976b425a9b8a1b1a4"><![CDATA[https://cdn.discordapp.com/attachments/917831204395417610/918220051063111710/YeetAttack.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/917831204395417610/918220051268665374]]></Repository>
         <Tags>
@@ -960,7 +949,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Eternal Grubs</Name>
         <Description>A mod that makes it so that Grubfather never eats the Grubs. Requires SFCore.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/Exempt-Medic/EternalGrubs/releases/download/v1.0.0.35087/EternalGrubs.zip]]></Link>
+        <Link SHA256="edc51edbe5f4f0ecc6f1a143fdb199821c072b5d22ed658798dffa2dcd9938b7"><![CDATA[https://github.com/Exempt-Medic/EternalGrubs/releases/download/v1.0.0.35087/EternalGrubs.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/Exempt-Medic/HK-Mods/tree/main/PUBLIC/EternalGrubs]]></Repository>
         <Tags>
@@ -974,7 +963,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Carefree Melody High Chance</Name>
         <Description>Makes Carefree Melody have the 90.9090% chance every time</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037526163981078598/CarefreeMelodyHighChance.dll]]></Link>
+        <Link SHA256="e66975e6158ab8091fe92d4416a551c26c18d27ffa2e2158fbb846f7c4d6d3f3"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037526163981078598/CarefreeMelodyHighChance.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/1037526164274696232]]></Repository>
         <Tags>
@@ -988,7 +977,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Carefree RNG Reset</Name>
         <Description>Sets Carefree Melody to highest chance in Hall of Gods</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037537512647831684/CarefreeRngReset.dll]]></Link>
+        <Link SHA256="837adb3604fce2a865936e906ef0405be1cfc85d97201d38e32ced6e165bb32a"><![CDATA[https://cdn.discordapp.com/attachments/879133769070706698/1037537512647831684/CarefreeRngReset.dll]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://discord.com/channels/879125729936298015/879133769070706698/1037537512920453173]]></Repository>
         <Tags>
@@ -1002,7 +991,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Name>Boss Control Mod</Name>
         <Description>Allows the player to play as some Bosses, including Radiance, The Hollow Knight, Grimm, Nail Master. English Translation of page: https://github-com.translate.goog/WLLEGit/HollowKnightMod?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=wapp</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://github.com/WLLEGit/HollowKnightMod/releases/download/v3.0/Controller.zip]]></Link>
+        <Link SHA256="3900f99cd717a24f8da18c6106f3c12c4498be79c11c7c95bf4468b976a7ff24"><![CDATA[https://github.com/WLLEGit/HollowKnightMod/releases/download/v3.0/Controller.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/WLLEGit/HollowKnightMod]]></Repository>
         <Tags>
@@ -1017,7 +1006,7 @@ Based on the unreleased mod of the same name by Aeraloth"</Description>
         <Description>"AKA ""MP_ mods""
 A series of mods that each do one specific thing, to be used when playing Multiplayer Games"</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256=""><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Link>
+        <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://drive.google.com/drive/folders/1AsJqLm212unWnXroaoAATotgkK_PqbVc]]></Repository>
         <Tags>
